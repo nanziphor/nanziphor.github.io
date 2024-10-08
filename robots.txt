@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nanziphor.github.io/sitemap.html.gz
+Sitemap: https://nanziphor.github.io/app/sitemap.html.gz
+Sitemap: https://nanziphor.github.io/assets/sitemap.html.gz
+Sitemap: https://nanziphor.github.io/css/sitemap.html.gz
+Sitemap: https://nanziphor.github.io/includes/sitemap.html.gz
+Sitemap: https://nanziphor.github.io/item/sitemap.html.gz
+Sitemap: https://nanziphor.github.io/src/sitemap.html.gz
